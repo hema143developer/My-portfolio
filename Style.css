@@ -164,6 +164,7 @@ span{
    font-family: 'Arial Narrow', Arial, sans-serif;
    padding: 20px;
    text-align: justify; 
+    scroll-margin-top: 100px;
 }
 .about-img img{
     width: 25vw;
