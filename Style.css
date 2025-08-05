@@ -158,11 +158,12 @@ span{
 
 /* About */
 .about{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 2rem;
-    background: var(--snd-bg-color);
+   color: white;
+   font-size: 18px;
+   line-height: 1.6;
+   font-family: 'Arial Narrow', Arial, sans-serif;
+   padding: 20px;
+   text-align: justify; 
 }
 .about-img img{
     width: 25vw;
@@ -175,14 +176,13 @@ span{
 }
 .about-content h2{
     text-align: left;
-    line-height: 1.2;
-}
+    line-height:1.2;
+    }
 .about-content h3{
     font-size: 2.6rem;
 }
 .about-content p{
-    font-size: 1.6rem;
-    margin: 2rem 0 3rem;
+    margin: 15px;
 }
 .readme{
     width: 10vw;
